@@ -205,6 +205,7 @@ Websites {#sites}
 - [happens.co.za](http://www.happens.co.za/) Add countdown times for any "happening" or event and share it with others.
 - [DarkArts Studios](http://www.darkarts.co.za/) Projects and source code of Clive Crous
 - [Ant genome database](http://fourmidable.unil.ch)
+- [eraboidols](http://http://eraboidol.info)
 
 Companies using Sinatra {#biz}
 -----------------------
